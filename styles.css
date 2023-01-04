@@ -1,0 +1,16 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+#product-svg{
+	mix-blend-mode: multiply;
+}
+
+#product-shape{
+	fill:#DBED64;
+}
+
+#cejaOne{
+	fill:#000; 
+}
